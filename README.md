@@ -10,7 +10,7 @@ Soy Daniel Muñoz Cáceres, **Licenciado en Astronomía** de la **Universidad de
 - 📚 Licenciado en Astronomía, con formación adicional en análisis de datos y experiencia en investigación observacional.
 - 🔎 Mis intereses académicos hoy son el _Machine Learning_, _Data Science_  y un poco de _Natural Language Processing_.
 - 🌟 Disfruto de proyectos de Ciencia de Datos que pretendan encontrar una respuesta a grandes preguntas
-- 🎮 Hobbies: jugar videojuegos, ver fútbol y a veces correr
+- 🎮 Mis hobbies son jugar videojuegos, ver fútbol y a veces correr
 
 
 ------------
