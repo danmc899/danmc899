@@ -3,7 +3,7 @@
 Soy Daniel Muñoz Cáceres, **Licenciado en Astronomía** de la **Universidad de Chile**, y actualmente estoy cursando el **Magíster en Ciencias de Datos** en la misma universidad.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/)](mailto:dlamunozc@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-muñoz-cáceres-003204323)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-munoz-caceres-003204323)
 ------------
 ## 🙋‍♂️Acerca de mí
 
